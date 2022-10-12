@@ -44,7 +44,7 @@ menu a:hover{
 
 main{
     background-image: url(imagens/wallpaper006.jpg);
-    height: 300px;
+    height: 350px;
     background-size: cover;
     max-width: 700px;
     min-width: 280px;
@@ -53,8 +53,12 @@ main{
     padding: 18px;
 }
 main > p{
+    
     line-height: 20px;
     font-size: 17px;
+}
+main h2{
+    text-align: center;
 }
 footer{
     height: 70px;
