@@ -40,6 +40,7 @@ menu a{
     text-decoration: none;
     border-radius: 6px;
     color: var(--cor1);
+    font-size: 18px;
 }
 
 menu a:hover{
@@ -59,8 +60,7 @@ main{
     padding: 18px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
 }
-main > p{
-    
+main > p{ 
     line-height: 20px;
     font-size: 17px;
 }
