@@ -55,5 +55,18 @@ main > p{
     line-height: 20px;
     font-size: 17px;
 }
+footer{
+    height: 70px;
+    background-color: var(--cor1);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 8px
+    
+}
+footer p{
+  padding-top:16px ;
+}
+
 
 
