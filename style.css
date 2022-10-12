@@ -18,6 +18,7 @@ body{
 }
 img{
     border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.527);
 }
 
 header{
@@ -27,9 +28,11 @@ header{
     background-position: center center;
     background-repeat: no-repeat;
 }
-menu{
-    text-align: center;
-    padding: 10px;
+
+    menu{
+        text-align: center;
+        padding: 10px;
+    
 }
 menu a{
     margin: 10px;
@@ -54,6 +57,7 @@ main{
     margin: auto;
     border-radius: 8px;
     padding: 18px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
 }
 main > p{
     
