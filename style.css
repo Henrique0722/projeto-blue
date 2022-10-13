@@ -94,12 +94,14 @@ section h2{
     margin: 10px;
     padding: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
 }
 .emy{
     background-color: #6298e33b;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
 
 }
 .kams{
@@ -107,6 +109,7 @@ section h2{
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
     
 }
 .viih{
@@ -114,13 +117,16 @@ section h2{
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
 }
 .thayssa{
     background-color: #6298e33b;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
 }
+
 footer{
     height: 70px;
     background-color: var(--cor1);
