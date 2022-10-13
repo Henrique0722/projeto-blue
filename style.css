@@ -40,7 +40,7 @@ menu a{
     text-decoration: none;
     border-radius: 6px;
     color: var(--cor1);
-    font-size: 18px;
+    font-size: 18  px;
 }
 
 menu a:hover{
