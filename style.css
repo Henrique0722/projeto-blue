@@ -67,6 +67,57 @@ main > p{
 main h2{
     text-align: center;
 }
+
+section{
+    text-align: center;
+    max-width: 600px;
+    min-width: 300px;
+    margin: auto;
+    font-size: 17px;
+    line-height: 19px;
+}
+section h2{
+    background-color: #6298e38c;
+    padding: 20px;
+    font-size: 1.6em;
+    width: 120px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+.kike{
+    background-color: #6298e33b;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.emy{
+    background-color: #6298e33b;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+.kams{
+    background-color: #6298e33b;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.viih{
+    background-color: #6298e33b;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.thayssa{
+    background-color: #6298e33b;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
 footer{
     height: 70px;
     background-color: var(--cor1);
