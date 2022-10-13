@@ -86,6 +86,9 @@ section h2{
     border-radius: 10px;
 
 }
+.equipe{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479);
+}
 .kike{
     background-color: #6298e33b;
     margin: 10px;
