@@ -53,7 +53,7 @@ main{
     background-image: url(imagens/wallpaper006.jpg);
     height: 350px;
     background-size: cover;
-    max-width: 1000px;
+    max-width: 1200px;
     min-width: 280px;
     margin: auto;
     border-radius: 8px;
@@ -128,7 +128,7 @@ section h2{
 }
 
 footer{
-    height: 70px;
+    height: 500px;
     background-color: var(--cor1);
     color: white;
     text-align: center;
