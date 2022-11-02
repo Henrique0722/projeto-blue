@@ -22,7 +22,7 @@ img{
 }
 
 header{
-    background-image: url(imagens/wallpaper005.jpg);
+    background-image: url(../imagens/wallpaper005.jpg);
     height: 300px;
     background-size: cover;
     background-position: center center;
@@ -50,11 +50,10 @@ menu a:hover{
 
 
 main{
-    background-image: url(imagens/wallpaper006.jpg);
+    background-image: url(../imagens/wallpaper006.jpg);
     height: 350px;
     background-size: cover;
-    max-width: 1200px;
-    min-width: 280px;
+    width: 60vw;
     margin: auto;
     border-radius: 8px;
     padding: 18px;
@@ -70,7 +69,7 @@ main h2{
 
 section{
     text-align: center;
-    max-width: 900px;
+    max-width: 900px; /*mexer aq caso der ruim*/
     min-width: 300px;
     margin: auto;
     font-size: 17px;
@@ -80,7 +79,7 @@ section h2{
     background-color: #6298e38c;
     padding: 20px;
     font-size: 1.6em;
-    width: 120px;
+    width: 300px;
     margin: auto;
     margin-top: 20px;
     border-radius: 10px;
