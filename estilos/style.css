@@ -51,9 +51,8 @@ menu a:hover{
 
 main{
     background-image: url(../imagens/wallpaper006.jpg);
-    height: 350px;
     background-size: cover;
-    width: 60vw;
+    width: 70vw;
     margin: auto;
     border-radius: 8px;
     padding: 18px;
