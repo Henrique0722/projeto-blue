@@ -87,32 +87,8 @@ section h2{
 .equipe{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479);
 }
-.kike{
+.pessoas{
     background-color: #6298e33b;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
-}
-.emy{
-    background-color: #6298e33b;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
-
-}
-.kams{
-    background-color: #6298e33b;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
-    
-}
-.viih{
-    background-color: #6298e33b;
-    padding: 10px;
     margin: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
@@ -120,7 +96,6 @@ section h2{
 .thayssa{
     background-color: #6298e33b;
     padding: 10px;
-    margin: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
 }
