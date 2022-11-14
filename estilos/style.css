@@ -66,7 +66,7 @@ main h2{
     text-align: center;
 }
 
-section{
+.container{
     text-align: center;
     max-width: 900px; /*mexer aq caso der ruim*/
     min-width: 300px;
@@ -91,7 +91,7 @@ section h2{
     background-color: #6298e33b;
     margin: 10px;
     border-radius: 10px;
-    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288);
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.288); 
 }
 .thayssa{
     background-color: #6298e33b;
