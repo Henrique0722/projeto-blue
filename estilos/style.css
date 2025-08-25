@@ -93,11 +93,21 @@ section h2{
     border-radius: 10px;
    
 }
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: auto
+}
 .pessoas{
     background-color: #6298e33b;
     text-align: center;
     border-radius: 10px;
     width: 350px;
+    height: 450px;
     padding: 10px;
     margin: auto;
     margin-top: 10px;
